@@ -26,9 +26,9 @@ const c = (point:IPoint) =>{
 
 
 
-function print(coord: I3DPOINT){
-
-}
+// function print(coord: I3DPOINT){
+//
+// }
 
 interface ITest{
     a:number;
